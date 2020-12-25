@@ -21,7 +21,7 @@ dependencies {
 val loading = IosLoadingDrawable(
         context = this,             // context
         paintColor = Color.YELLOW,  // color
-        paintWidth = 10.dp2dx(),    // line width in px
+        paintWidth = 10.dp2px(),    // line width in px
         lineCount = 6,              // number of line
         rotateDuration = 500L       // animation duration
 )
