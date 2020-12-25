@@ -1,4 +1,6 @@
 # iOSLoadingView
+[![](https://jitpack.io/v/SkywalkerDarren/iOSLoadingView.svg)](https://jitpack.io/#SkywalkerDarren/iOSLoadingView)
+
 iOS like loading drawable
 # start
 ```
